@@ -1,0 +1,10 @@
+{
+  "description": "This interactive dashboard enables authorized lenders to efficiently track asset recovery statuses, lifecycle phases, and necessary actions in real-time.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
